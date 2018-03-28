@@ -1,0 +1,11 @@
+/etc/apache2/sites-available/ijme.in.conf
+/etc/apache2/sites-available/default-ssl.conf
+
+WORDPRESS
+DB - frgmxhwawa
+
+OJS
+DB - zwjqfztqsq
+
+OCS (NBC)
+DB - aejqzgqugu

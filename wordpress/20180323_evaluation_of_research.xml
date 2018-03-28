@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+    <!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.0//EN" "http://www.ncbi.nlm.nih.gov:80/entrez/query/static/PubMed.dtd">
+    <ArticleSet>
+        <Article>
+            <Journal>
+                <PublisherName>Forum for Medical Ethics Society</PublisherName>
+                <JournalTitle>Indian Journal of Medical Ethics</JournalTitle>
+                <Issn>0975-5691</Issn>
+                <Volume>-</Volume>
+                <Issue>-</Issue>
+                <PubDate PubStatus="aheadofprint">
+                    <Year>2018</Year>
+                    <Month>March</Month>
+                    <Day>23</Day>
+                </PubDate>
+            </Journal>
+            <ArticleTitle>Evaluation of research in India – are we doing it right?</ArticleTitle>
+            <FirstPage>1</FirstPage>
+            <LastPage>9</LastPage>
+            <ELocationID EIdType="doi">10.20529/IJME.2018.024</ELocationID>
+            <Language>EN</Language>
+            <AuthorList>
+                <Author>
+                    <FirstName>Muthu</FirstName>
+                    <LastName>Madhan</LastName>
+                    <Affiliation>DST Centre for Policy Research, Indian Institute of Science, Bengaluru 560012, Karnataka, India., mu.madhan@gmail.com</Affiliation>
+                </Author>
+                <Author>
+                    <FirstName>Subbiah</FirstName>
+                    <LastName>Gunasekaran</LastName>
+                    <Affiliation>CSIR-Central Electrochemical Research Institute, Karaikudi 630003, Tamil Nadu, India., guna1970@gmail.com</Affiliation>
+                </Author>
+                <Author>
+                    <FirstName>Subbiah</FirstName>
+                    <LastName>Arunachalam</LastName>
+                    <Affiliation>DST Centre for Policy Research, Indian Institute of Science, Bengaluru 560012, Karnataka, India, and Centre for Internet and Society, Bengaluru 560071, Karnataka, India., subbiah.arunachalam@gmail.com</Affiliation>
+                </Author>
+            </AuthorList>
+            <ArticleIdList>
+                <ArticleId IdType="pii">5313</ArticleId>
+                <ArticleId IdType="doi">10.20529/IJME.2018.024</ArticleId>
+            </ArticleIdList>
+            <Abstract>The evaluation of performance in scientific research at any level – whether at the individual, institutional, research council or country level – is not easy. Traditionally, research evaluation at the individual and institutional levels has depended largely on peer opinion, but with the rapid growth of science over the last century and the availability of databases and scientometric techniques, quantitative indicators have gained importance. Both peer review and metrics are subject to flaws, more so in India because of the way they are used. Government agencies, funding bodies and academic and research institutions in India suffer from the impact factor and h-index syndrome. The uninformed use of indicators such as average and cumulative impact factors and the arbitrary criteria stipulated by agencies such as the University Grants Commission, Indian Council of Medical Research and the Medical Council of India for selection and promotion of faculty have made it difficult to distinguish good science from the bad and the indifferent. The exaggerated importance given by these agencies to the number of publications, irrespective of what they report, has led to an ethical crisis in scholarly communication and the reward system in science. These agencies seem to be unconcerned about the proliferation of predatory journals and conferences. After giving examples of the bizarre use of indicators and arbitrary recruitment and evaluation practices in India, we summarise the merits of peer review and quantitative indicators and the evaluation practices followed elsewhere.</Abstract>
+        </Article>
+    </ArticleSet>

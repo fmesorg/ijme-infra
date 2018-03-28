@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+    <!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.0//EN" "http://www.ncbi.nlm.nih.gov:80/entrez/query/static/PubMed.dtd">
+    <ArticleSet>
+        <Article>
+            <Journal>
+                <PublisherName>Forum for Medical Ethics Society</PublisherName>
+                <JournalTitle>Indian Journal of Medical Ethics</JournalTitle>
+                <Issn>0975-5691</Issn>
+                <Volume>-</Volume>
+                <Issue>-</Issue>
+                <PubDate PubStatus="aheadofprint">
+                    <Year>...Enter the year number (Ex: 2018)...</Year>
+                    <Month>...Enter the Month (Ex: March)...</Month>
+                    <Day>...Enter the date (Ex: 23)...</Day>
+                </PubDate>
+            </Journal>
+            <ArticleTitle>...Title name of the article...</ArticleTitle>
+            <FirstPage>...The article page number starts from (Ex: 1)...</FirstPage>
+            <LastPage>...The article end page number (Ex: 5)...</LastPage>
+            <ELocationID EIdType="doi">...Please see the PDF shared by client, there you will find the DOI number (Ex: 10.20529/IJME.2018.024)...</ELocationID>
+            <Language>EN</Language>
+            <AuthorList>
+                <Author>
+                    <FirstName>...Author's first name...</FirstName>
+		    <MiddleName>...Author's middle name, if it's not there then delete his Middle Name...</MiddleName>
+                    <LastName>...Author last name...</LastName>
+                    <Affiliation>...Author destials., email ID...</Affiliation>
+                </Author>
+           </AuthorList>
+            <ArticleIdList>
+                <ArticleId IdType="pii">...Enter the OJS Submission HTML pii number here...</ArticleId>
+                <ArticleId IdType="doi">...Please see the PDF shared by client, there you will find the DOI number (Ex: 10.20529/IJME.2018.024)...</ArticleId>
+            </ArticleIdList>
+            <Abstract>...Enter the Abstract given in the PDF or the first paragraph mentioned in PDF...</Abstract>
+        </Article>
+    </ArticleSet>
+
+
+
+<!-- after compelting it, open this url to check the XML is valid or not "http://www.ncbi.nlm.nih.gov/pubmed/citcheck/" -->
