@@ -25,3 +25,15 @@ update wp_postmeta set author_string = 'Editorial Team' where post_id = 191;
 
 
 select count(*) from wp_postmeta where meta_key='author_string' and meta_value = '- -';
+
+CORRECT
+1707, Articles,   a:3:{i:0;a:9:{s:10:"first_name";s:2:"NJ";s:11:"middle_name";s:0:"";s:9:"last_name";s:6:"Gogtay";s:11:"affiliation";s:56:"Seth GS Medical College and KEM Hospital, Mumbai 400 012";s:7:"country";s:2:"IN";s:5:"email";s:20:"njgogtay@hotmail.com";s:19:"competing_interests";s:0:"";s:9:"biography";s:35:"Department of Clinical Pharmacology";s:15:"primary_contact";b:1;}
+
+1443, Comments,   a:2:{i:0;a:9:{s:10:"first_name";s:6:
+1233, NONE,       a:2:{i:0;a:9:{s:10:"first_name";s:6:
+17126, NONE,      a:1:{i:0;a:9:{s:10:"first_name";s:5:
+16850, Comments,  a:1:{i:0;a:9:{s:10:"first_name";s:8:
+
+INCORRECT
+324, Articles,    a:1:{i:0;a:9:{s:10:"first_name";s:2:
+403, Articles,    a:1:{i:0;a:10:{s:10:"first_name";s:2:"S.";s:11:"middle_name";s:2:"M.";s:9:"last_name";s:6:"Phanse";s:11:"affiliation";s:61:"6, Bandra Saroj, St. Andrew’s Road, Bandra, Mumbai 400 050.";s:7:"country";s:2:"IN";s:17:"country_localized";s:5:"India";s:19:"competing_interests";s:0:"";s:9:"biography";s:0:"";s:15:"primary_contact";b:1;}}

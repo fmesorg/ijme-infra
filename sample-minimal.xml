@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE papers SYSTEM "native.dtd" >
+<papers>
+    <paper>
+        <title>Bioethics in relation to Data Transparency and Data sharing in Health Research in Sri Lanka</title>
+        <abstract>Background
+            There is an increase tendency of gathering, storing, accessing, sharing the information and ownership of the clinical research and clinical trials (Derek So, 2017). The potential challenge is to assure the transparency and quality of the information shared. Misinterpretation and data abuse is also a possibility. These issues may become a burden to Bioethics committees, with the ill-defined terms of reference in data management (Sumathipala, 2008).
+            In Sri Lanka there are 25 Ethics review committees (ERC) approved by the Ministry of Health, Nutrition and Indigenous Medicine (MoH). The National Health Research Council (NHRC) is the regulating body of registered ERCs. Capacity building, advocacy and provision of policy guidelines are necessary to create an awareness of Bioethics on data transparency and data sharing among researchers (Sumitapala, 2006).
+            Research Method
+            Descriptive cross sectional study. Documents review and interviews conducted with the relevant focal points.
+            Research Results and Outcome
+            The majority of researchers (> 56%), ERCs (~11 /25) and agencies with the ownership of the research repositories have poor knowledge in bioethics related to data transparency and data sharing.
+            Discussion
+            Identification of knowledge gaps needs to create awareness of ethical implications on data management among the researchers (Montgomery, 2017). Implementation of the digital repository at MoH and convert the ERCs to incorporate ethical considerations in their code of ethics in data reuse and publishing, identified as a need (Clifford, 2013).  Promoting best practices in ethical data sharing is the ultimate expectation (O'Connel, 2015)
+        </abstract>
+        <sponsor>Placeholder sponsor</sponsor>
+        <author primary_contact="true">
+            <firstname>A. K.</firstname>
+            <middlename>S.B.</middlename>
+            <lastname>De Alwis</lastname>
+            <affiliation>Rev. Baddegama Wimalawansa Thero Mawatha, Colombo – 10, Sri Lanka
+                Deputy Director General – Education, Training and Research – Education, Training and Research Unit
+            </affiliation>
+            <country>Sri Lanka</country>
+            <email>viveks@samanvayfoundation.org</email>
+            <url>http://author.example.com</url>
+            <biography>Placeholder bio</biography>
+        </author>
+        <author primary_contact="false">
+            <firstname>Thilin</firstname>
+            <middlename></middlename>
+            <lastname>Wanigasekera</lastname>
+            <affiliation>Rev. Baddegama Wimalawansa Thero Mawatha, Colombo – 10, Sri Lanka
+                Deputy Director General – Education, Training and Research – Education, Training and Research Unit
+            </affiliation>
+            <country>Sri Lanka</country>
+            <email>viveks@samanvayfoundation.org</email>
+            <url>http://author.example.com</url>
+            <biography>Placeholder bio</biography>
+        </author>
+        <date_published>15-May-2018</date_published>
+    </paper>
+</papers>
