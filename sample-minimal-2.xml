@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE papers SYSTEM "native.dtd" >
+<papers>
+    <paper>
+        <title>3. Issues in methodological rigor and ethics in research projects submitted to Ministry of Health Sri Lanka for salary incentives</title>
+        <abstract>Following a government directive in 2012, Ministry of Health Sri Lanka introduced a salary incentive (“research allowance”) for its employees conducting research.  Each research proposal needs approval from one of 26 Ministry-recognized Ethics Review Committees (ERC) either in universities or health care institutions (HCI) around the country. Although the ERC review is expected to carefully assess scientific rigor and ethical soundness of these research proposals, the process appears to considerably vary across ERCs in its scientific approach and objectivity. Given that the National Health Research Ethics Committee under the National Health Research Council Act is yet to be established to streamline the review process of ERCs as one of its functions, it’s prudent to review the same proposals objectively at the ministry level along with the recommendations of the ERC recommendations.
+
+            Aim:
+            To review proposals submitted to qualify for research allowance for methodological rigor and ethical soundness.
+
+            Method:
+            A panel of experts reviewed all research proposals(250) submitted to the Ministry in 2016, independent of ERC reviews.
+
+            Results:
+            Majority of proposals (65.6%) had been reviewed by University ERCs and 47.2% were associated with postgraduate degrees. A total of 17.6%(44/250) had issues (mostly, poorly-formulated objectives and methodological deviations); 4.2% of proposals reviewed by University ERCs and 45.3% by HCI. Quality of letters issued by the ERCs was poor in 5.6%.
+
+            Conlusions and recommendations:
+            Variation in the review outcome between university-based and HCI-based ERCs was significant (p 0.05) and needs attention for remedial intervention. The process of recognition of ERCs may need re-evaluation.
+        </abstract>
+        <sponsor>Placeholder sponsor</sponsor>
+        <author primary_contact="true">
+            <firstname>Sudheera</firstname>
+            <middlename></middlename>
+            <lastname>Wanninayake</lastname>
+            <affiliation>Rev. Baddegama Wimalawansa Thero Mawatha, Colombo – 10, Sri Lanka
+                Deputy Director General – Education, Training and Research – Education, Training and Research Unit
+            </affiliation>
+            <country>Sri Lanka</country>
+            <email>viveks@samanvayfoundation.org</email>
+            <url>http://author.example.com</url>
+            <biography>Placeholder bio</biography>
+        </author>
+        <author primary_contact="false">
+            <firstname>Risintha</firstname>
+            <middlename></middlename>
+            <lastname>Premaratne</lastname>
+            <affiliation>Rev. Baddegama Wimalawansa Thero Mawatha, Colombo – 10, Sri Lanka
+                Deputy Director General – Education, Training and Research – Education, Training and Research Unit
+            </affiliation>
+            <country>Sri Lanka</country>
+            <email>viveks@samanvayfoundation.org</email>
+            <url>http://author.example.com</url>
+            <biography>Placeholder bio</biography>
+        </author>
+        <date_published>15-May-2018</date_published>
+    </paper>
+    <paper>
+        <title>Bioethics takes the next step: An academic project becomes curriculum</title>
+        <abstract>Background:
+            The Centre of Biomedical Ethics and Culture (CBEC), SIUT is the only centre in Pakistan offering a postgraduate diploma (PGD) in biomedical ethics. This one year program includes four contact sessions and round the year distance learning. As my PGD annual project I conducted “an introductory course on bioethics for the postgraduate trainee doctors” at a tertiary care hospital. Project objectives included: creating awareness about bioethics, and enabling participants to identify ethical concerns in their clinical practice.
+            Description:
+            Using various teaching modalities, seven interactive sessions were conducted for the target audience. The envisioned objectives of the project were achieved along with a pleasantly surprising unforeseen consequence i.e. student feedback lead hospital authorities to invite me for developing a biomedical ethics curriculum for residents.
+            Outcome:
+            Bioethics education has now formally become a part of the hospital’s residency program as 12 sessions spread over the year in 2018. Future plans include capacity building enrichment of the curriculum with more sessions.
+            Discussion:
+            Many medical schools are now recognizing the need of bioethics as a subject for undergraduate studies, there is also need however, to train the ones already pursuing post-graduation. Inculcating ethics education in residency would ensure equipping these soon to be specialist doctors with knowledge of complex concepts of ethics, ability to identify ethical concerns and advocate the vulnerable where needed.
+        </abstract>
+        <sponsor>Placeholder sponsor</sponsor>
+        <author primary_contact="true">
+            <firstname>Abeer</firstname>
+            <middlename></middlename>
+            <lastname>Salim</lastname>
+            <affiliation>Flat # C-172, New Dhoraji Colony, Block – 4, Gulshan-e-Iqbal, Karachi, Pakistan</affiliation>
+            <country>Pakistan</country>
+            <email>viveks@samanvayfoundation.org</email>
+            <url>http://author.example.com</url>
+            <biography>Placeholder bio</biography>
+        </author>
+        <date_published>15-May-2018</date_published>
+    </paper>
+</papers>
