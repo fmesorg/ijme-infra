@@ -1,0 +1,207 @@
+root@ubuntu-s-2vcpu-4gb-nyc3-01:~/downloads/papers/abstracts/files# sh copy-files.sh
+cp: cannot stat ‘20. Angus Dawson_Oral_ Water & Sanitation.docx’: No such file or directory
+cp: cannot stat ‘24. Anuradha Jha_Orla_ Bio-Economics revised’: No such file or directory
+cp: cannot stat ‘33. Ayesha Ahmad_Either_Ethical evaluation of trials of interventions to prevent violence against women and girls.docx’: No such file or directory
+cp: cannot stat ‘34. Bevin Vinay Kumar_Oral_Ethinography.docx’: No such file or directory
+cp: cannot stat ‘37. Bijoya Roy_Oral_Ethics of Childbirth.docx’: No such file or directory
+cp: cannot stat ‘54. Charles Dupras_Oral_Epigenetic discrimination.docx’: No such file or directory
+cp: cannot stat ‘55. Charles Dupras_Oral_Implementing NIPT_Abstract.docx’: No such file or directory
+cp: missing destination file operand after ‘58. Christophe Schneble_Oral_mturk and payment_revised /home/ocs/files/conferences/5/schedConfs/5/papers/1144/supp/1144-78-1-SP.docx’
+Try 'cp --help' for more information.
+cp: cannot stat ‘69. David Hunter_Oral_Medical ethics education a discursive approach - Revised \\(1\\).docx’: No such file or directory
+cp: cannot stat ‘85. EhsanSGooshki_Oral_Allocating Scarce Health Resources The Role of Physicians_18March2018 REVISED \\(1\\).docx’: No such file or directory
+cp: cannot stat ‘88. Emilia Kaczmarek_Poster_ Looking for the optimal way to reduce global health inequalities - limitations of a human_Revised.docx’: No such file or directory
+cp: cannot stat ‘97. Felicitas Holzer _Oral_Fair benefit sharing and obligations towards communities in international health research.docx’: No such file or directory
+cp: cannot stat ‘98. Felicitas Holzer_Oral_Egalitarian justice exploitation and complicity in international health research_Revised.docx’: No such file or directory
+cp: cannot stat ‘100. Francis Masiye_Oral_Ethical Challenges in Obtaining Informed Consent_Revised.docx’: No such file or directory
+cp: cannot stat ‘113. Ignacio Mastroleo_Oral_Innovation in biomedicine definition  justification ethical principles and importance in Latin.docx’: No such file or directory
+cp: cannot stat ‘117. Jagriti Gangopadhyay_Oral_Ageing privitization and health inequalities in Kolkata India.docx’: No such file or directory
+cp: cannot stat ‘119. James Wilson_Oral_Bioethics as translational philosophy.docx’: No such file or directory
+cp: cannot stat ‘124. JeanCBélisleP_Oral_Ethics Issues of Patient Engagement in Research_24March2018.docx’: No such file or directory
+cp: cannot stat ‘127. Jeyver Rodríguez Baños \\(oral\\) - The Global Bioethics of Van Rensselaer Potter_Revised.docx’: No such file or directory
+cp: cannot stat ‘132. Johannes Immler_Oral_Age as allocation priority criteria in humanitarian aid.docx’: No such file or directory
+cp: cannot stat ‘133. John Lunstroth_Oral_Can there be a uniquely Indian \\(Hindu\\) Bioethics.docx’: No such file or directory
+cp: cannot stat ‘135. Joseph Ali_Oral_Ethical Legal and Societal Implications of mHealth for Non-Communicable Disease_REVISED \\(1\\).docx’: No such file or directory
+cp: cannot stat ‘136. Joseph_Millum_Oral_ Priorities for Research Funding Whose Burden of Disease_revised.docx’: No such file or directory
+cp: cannot stat ‘145. Kenji Tsuda_Oral_Differences in physicians decision making patterns.docx’: No such file or directory
+cp: cannot stat ‘147. Kriti Shukla_Oral_Contemolating pregnancy.docx’: No such file or directory
+cp: cannot stat ‘148. Lars Ursin_Oral_Withholding and Withdrawing Life Sustaining Treatment.docx’: No such file or directory
+cp: cannot stat ‘152. loretta das oral Unmet healthcare needs of people affected by leprosy – an ethical concern for India.docx’: No such file or directory
+cp: cannot stat ‘153. Luisa Borgia Oral - THE DOCUMENT OF NATIONAL BIOETHICS COMMITTEE OF REPUBLIC OF SAN MARINO \\(CSB\\) ON BIOETHICS OF DISASTERS.docx’: No such file or directory
+cp: cannot stat ‘154. A BIOETHICAL APPROACH TO PERSONS WITH DISABILITIES.docx’: No such file or directory
+cp: cannot stat ‘155. Lydia Aiseah Ariffin_Either_PATIENT\’S RIGHT TO INFORMATION IN MEDICAL CARE.docx’: No such file or directory
+cp: cannot stat ‘159. MaddalenaFavaretto_Oral_Big data and discrimination_23March2018.docx’: No such file or directory
+cp: cannot stat ‘161. MAgi Murugan_Oral_Exploring the knowledge of professionalism.docx’: No such file or directory
+cp: cannot stat ‘163.MalouLLuchtenberg_Oral_Children\’s right to participate in medical research.docx’: No such file or directory
+cp: cannot stat ‘165_Mar Escarrabill_Either_Ethicalsocial and legal aspects on sex selection.docx’: No such file or directory
+cp: cannot stat ‘168. Mark Tan_Either_Considerations for Utilising Massive Open Online Courses.docx’: No such file or directory
+cp: cannot stat ‘169. Martin de Vries _ORAL_FP in transgender girls.docx’: No such file or directory
+cp: cannot stat ‘170_Mary Kasule_Either_WHO MAKES THE DECISION.docx’: No such file or directory
+cp: cannot stat ‘171.MaryOtt_Either_Ethical considerations for inclusion of children of minor parents in clinical trials_30Mar2018.docx’: No such file or directory
+cp: cannot stat ‘172 Mascha Elskamp_Oral_A New Framework to Address Global Health Inequity in Innovation.docx’: No such file or directory
+cp: cannot stat ‘173.Matthew Hunt_Oral_A living laboratory.docx’: No such file or directory
+cp: cannot stat ‘176. Maxwell Smith_Oral_Conceptualizing the Intersectoral Pursuit of Health Equity.docx’: No such file or directory
+cp: cannot stat ‘177. Meredith Schwartz_Oral_Respect-and-Colonialism-as-a-Determinat-of-Health.docx’: No such file or directory
+cp: cannot stat ‘178. Michael Campbell_Oral_What is Informed Consent and Why Does it Matter.docx’: No such file or directory
+cp: cannot stat ‘180. Michael Rost_Either_Ethical Implications of the Newly Implemented Hospital Reimbursement System.docx’: No such file or directory
+cp: cannot stat ‘181. MichaelRost_Either_Higher burden of treatment and smaller benefits from palliative care_24March2018.docx’: No such file or directory
+cp: cannot stat ‘182. Michael Urband_Either_Ethics of rare disease diagnosis in the genomic era.docx’: No such file or directory
+cp: cannot stat ‘183. Michelle McGachie_Oral_Informed Consent and Genetic Data Collection.docx’: No such file or directory
+cp: cannot stat ‘185. Monideepa Becerra_Poster_Bioethical issues in HIVAIDS research.docx’: No such file or directory
+cp: cannot stat ‘186. Monique Lanoix_Oral_Equitable access to dementia care.docx’: No such file or directory
+cp: cannot stat ‘187. MousumiSamal_Oral_Informal Healthcare Providers and Universal Health Coverage an Ethical Challenge in Resource Poor Setting.docx’: No such file or directory
+cp: cannot stat ‘188. Mukadder Gun_Oral_Gender Perception of University Students Receiving Formation Training  in Turkey.docx’: No such file or directory
+cp: cannot stat ‘189. NancyJecker_Oral_Respecting the Dignity of Foreign Domestic Workers Caring for Elderly Singaporeans_14March2018.docx’: No such file or directory
+cp: cannot stat ‘192. Nathalie Egalite_Either_Age Testing of Unaccompanied Minors.docx’: No such file or directory
+cp: cannot stat ‘195. Niels Nijsingh_Oral_Choice Architecture and Antimicrobial Stewardship in the Patient-Doctor Relationship.docx’: No such file or directory
+cp: cannot stat ‘196. Nicola Williams_Oral_ presumed dissent.docx’: No such file or directory
+cp: cannot stat ‘198. NitzanRZarfaty_Oral_TimingFertility_28Mar2018.docx’: No such file or directory
+cp: cannot stat ‘199. OLga Chivilgina_Oral_Digital technologies for schizophrenia state of art and ethical concerns.docx’: No such file or directory
+cp: cannot stat ‘200. Olinda Timms_Oral_Call for an International Declaration on cross-border Surrogacy and Third-Party Reproduction.docx’: No such file or directory
+cp: cannot stat ‘201. OlubunmiOgunrin_Oral_Genomic resea.docxrch emergence in sub-Saharan Africaa_21Feb18.docx’: No such file or directory
+cp: cannot stat ‘203. P S Sreejith_Oral_Influence of affluence in the choice of Assisted Reproductive Technology.docx’: No such file or directory
+cp: cannot stat ‘205. P Omkar nAdh_Oral_Revenue Based Business Model to Growth Based Business Model.docx’: No such file or directory
+cp: cannot stat ‘206. Pacifico Eric C_Either_Social networking behaviour.docx’: No such file or directory
+cp: cannot stat ‘207. Phoebe Friesen_Oral_Efficacy According to EBM.docx’: No such file or directory
+cp: cannot stat ‘208. Pratik Aggarwal_Oral_A much needed headstart Ensuring early childhood care for children with disabilities.docx’: No such file or directory
+cp: cannot stat ‘213. Preeya Sreedaran_Oral_Ethical perspectives on contextual factors.docx’: No such file or directory
+cp: cannot stat ‘214. RRKishore_Oral_Human Organs, Scarcities and Sale_3Apr2018.docx’: No such file or directory
+cp: cannot stat ‘215. RRKishore_Oral_Ethics and law of dignity in dying_3Apr2018.docx’: No such file or directory
+cp: cannot stat ‘216. Radha Mallittiri_Poster_Wuality of life.docx’: No such file or directory
+cp: cannot stat ‘217. Raffaella Ravinetto_Oral_Quality of medicines in resource limited settings.docx’: No such file or directory
+cp: cannot stat ‘218. Rajib _ORAL_Revision of ICMR National Ethical Guidelines for Biomedical and Health Research.docx’: No such file or directory
+cp: cannot stat ‘219. Rakhi Ghoshal_Oral_Creating infertility.docx’: No such file or directory
+cp: cannot stat ‘221. Rebecca Duncan_Oral_A Qualitative Study of Adolescents and GPs Responses to a Proactive LARC Provision Model.docx’: No such file or directory
+cp: cannot stat ‘222. R Broekstra_Oral_SolidariteitKizuna.docx’: No such file or directory
+cp: cannot stat ‘223. Renzo Pegoraro_Oral_ Global Bioethics and maternal-childhood relationship.docx’: No such file or directory
+cp: cannot stat ‘226. Roy Joseph_Either_Ethical decision making at death\’s door.docx’: No such file or directory
+cp: cannot stat ‘227. Reuda Laura_Poster_Process of Consent Informed Consent Design for people with intellectual disabilities.docx’: No such file or directory
+cp: cannot stat ‘231. Sagar Karia_Poster_ANimal research.docx’: No such file or directory
+cp: cannot stat ‘232. Sagar Karia_Either_organ donation.docx’: No such file or directory
+cp: cannot stat ‘234. Sangeetha Paramsivan_Oral_Systematic review of ethical issues in clinical trials in India.docx’: No such file or directory
+cp: cannot stat ‘235. Sanghamitra Das_Oral_Questioning equality in post-humanist visions of genetic enhancement.docx’: No such file or directory
+cp: cannot stat ‘240. Savitha D_Oral_An exploration of the hidden curriculum in undergraduate medical training.docx’: No such file or directory
+cp: cannot stat ‘243. Shanshan Wang_Either_Analysis of Several Ethical Issues of Application of Artificial Intelligence in Public Health.docx’: No such file or directory
+cp: cannot stat ‘245. Shaza Abass_Either_Research Ethics Review Capacity  of Higher Education Institutes in Sudan.docx’: No such file or directory
+cp: cannot stat ‘247.Shilpa Krishna_Oral_Pharmaceutical Industry and Health Hazards.docx’: No such file or directory
+cp: cannot stat ‘249. Dr Shobha Mocherla_Either_Patient satisfaction.docx’: No such file or directory
+cp: cannot stat ‘253. SIddarthSarkar_Either_Coerced Substance Use versus Mental Health Care_17March2018.docx’: No such file or directory
+cp: cannot stat ‘254. Silke Schicktanz_Oral_Health for all in ageing societies.docx’: No such file or directory
+cp: cannot stat ‘255. Simisola O_Oral_Rethinking Parenthood.docx’: No such file or directory
+cp: cannot stat ‘257. Simon Lohse_Poster_Integrating Epistemology and ELSI Research.docx’: No such file or directory
+cp: cannot stat ‘260. Sonja Erikainen_Oral_Patienthood participation and consumption in the digital era.docx’: No such file or directory
+cp: cannot stat ‘261. SorenHolm_Oral_Trust me, I am your artificial doctor_2Apr2018.docx’: No such file or directory
+cp: cannot stat ‘267.Suchana Sova_Oral_Ethical Requirements for Improving Developing Nations Negotiation Capabilities in International Biomedical.docx’: No such file or directory
+cp: cannot stat ‘269. Sunu C Thomas_Oral_Medicalization of infertility.docx’: No such file or directory
+cp: cannot stat ‘270. Supriya Subramani_Oral_Critical reflection on rights in bioethics.docx’: No such file or directory
+cp: cannot stat ‘271. Surekha Dhaleta_Oral_Confronting and Challenging the Unethical and Unjust social context.docx’: No such file or directory
+cp: cannot stat ‘273. Sylvia Agbih_Oral_Health Care for Refugees Inequality and the Meaning of Health and Vulnerability.docx’: No such file or directory
+cp: cannot stat ‘274. Tahrima BNM_Either_organ donation.docx’: No such file or directory
+cp: cannot stat ‘277. Theresa Burgess_Ethical and legal issues associated with ancillary care provision.docx’: No such file or directory
+cp: cannot stat ‘278. Tiia Sudankaarne_Oral_Womb Tech Ethics and Global Responsibilities of Womb-Related Reproductive.docx’: No such file or directory
+cp: cannot stat ‘282. USha Raman_Oral_Recovering the person from the data.docx’: No such file or directory
+cp: cannot stat ‘284. V DineshKumar_Oral_Cadaver disrobing.docx’: No such file or directory
+cp: cannot stat ‘285. V Dinesh Kumar_Oral_GOOD DOCTOR AND BAD DOCTOR.docx’: No such file or directory
+cp: cannot stat ‘288. Vandana LR_Either_Change in academic attitude among first year medical  students.docx’: No such file or directory
+cp: cannot stat ‘289. Vardit Ravitsky_Oral_Gene editing.docx’: No such file or directory
+cp: cannot stat ‘290. Vardit Ravitsky_Oral_Cross-border Medically Assisted Reproduction and the Right to Know Ones Genetic Origins.docx’: No such file or directory
+cp: cannot stat ‘291. Vibeke Gravin_Either_Total Pain in Hospice Practice.docx’: No such file or directory
+cp: cannot stat ‘292. Victoria Duodenkova_Oral_Excluding or Putting at Risk.docx’: No such file or directory
+cp: cannot stat ‘293. Vijaya Hegde_Oral_ETHICAL CHALLENGES IN INDIA AMONG RESEARCHERS.docx’: No such file or directory
+cp: cannot stat ‘294. Vijaya Hegde_Either_Ethical considerations in research among Transgenders in India.docx’: No such file or directory
+cp: cannot stat ‘295. Vijaya Hegde_Poster_Thalikoothal A form of Geronticide or involuntary euthanasia.docx’: No such file or directory
+cp: cannot stat ‘296. Vijaya Hegde_Oral_Ethical Perspectives In Use Of Personal Data From Medical Records For Health Research.docx’: No such file or directory
+cp: cannot stat ‘306. Xiang_oral_Family Caregiving for Older People in a Chinese Rural Hospital \\(revised\\).docx’: No such file or directory
+cp: cannot stat ‘310._Yicheng_Chung_Poster_The_Legislation_of_Patients_Self_determination_Right_Act\\(Revised\\).docx’: No such file or directory
+cp: cannot stat ‘313. Yuanyuan Huang-Oral_Lack of access to antibiotics and antibiotic abuse \\(Revised-2\\).docx’: No such file or directory
+cp: cannot stat ‘W1.AgomoniMitra_Vulnerability and Justice in Global Health Emergencies and humanitarian practice.pdf’: No such file or directory
+cp: cannot stat ‘W2. Amita Chatterjee_In search of the roots for going forward Ayurveda, Health for All and Bioethics.docx’: No such file or directory
+cp: cannot stat ‘W3. Arun Mitra_ PREVENTION OF WAR AND VIOLENCE_Revised.docx’: No such file or directory
+cp: cannot stat ‘4. Avinash Desousa_Ethical issues in modern practice of  psychiatry.docx’: No such file or directory
+cp: cannot stat ‘5. Beth Rivin Transnational SouthSouth Collaborations to Build Bioethics Capacity The Pakistan Indonesia Project.docx’: No such file or directory
+cp: cannot stat ‘W6. Bridget Pratt_Jennifer Prah Ruger\’s Global Health Justice and Governance_ A Critical Discussion.docx’: No such file or directory
+cp: cannot stat ‘W7. Carleigh Krubiner_The Ethics of Priority-Setting on the Path to National Health Insurance in South Africa.docx’: No such file or directory
+cp: cannot stat ‘W8. UPDATED - Calvin Ho_Ethically Situating High-Cost Medical Interventions and Programs in Universal Health Coverage.docx’: No such file or directory
+cp: cannot stat ‘W9. Dominique Martin_Bioethics in Medical Education in the Asia Pacific – Challenges and Opportunities[1].docx’: No such file or directory
+cp: cannot stat ‘W10. Dominique Martin_Ethical issues in End Stage Kidney Disease Care – a call to action.docx’: No such file or directory
+cp: cannot stat ‘W11. Dorcas Kamuya_Incorporating a justice lens into health systems research ethics_Revised.docx’: No such file or directory
+cp: cannot stat ‘W12. E Premdas PintoUnpacking  structural, inter-sectional and existential layers of Dalit marginalisation and ethical challenges.docx’: No such file or directory
+cp: cannot stat ‘W13. Elizabeth Anne Buski_A HOUSE MADE OF STONE Building Bioethics capacity in South-to-South Collaboration.docx’: No such file or directory
+cp: cannot stat ‘W14. FATIMA ALVAREZ CASTILLO IS THERE A NEED FOR INSURGENT BIOETHICS REVISED.docx’: No such file or directory
+cp: cannot stat ‘W15. Gabriela Pavirini_eMental Health in the iGeneration International perspectives on ethics, youth and digital mental health.docx’: No such file or directory
+cp: cannot stat ‘W16. Graeme Laurie_Regulating values at the margins of health research.docx’: No such file or directory
+cp: cannot stat ‘W17. Graeme Laurie_Big Data in Health and Research Ethical Considerations REVISED.docx’: No such file or directory
+cp: cannot stat ‘W18. Jackie Scully_Health for All in an Unequal World_ Obligations of Global Bioethics.docx’: No such file or directory
+cp: cannot stat ‘W19. Janet Delgado_VULNERABILITY THEORY IN BIOETHICS.pdf’: No such file or directory
+cp: cannot stat ‘W20. John B Appleby_The ethics and regulation of radically new reproductive technologies - REVISED.docx’: No such file or directory
+cp: cannot stat ‘W21. Joseph Tham_ Social Responsibility and Health according to Western and Hindu Traditions revised.docx’: No such file or directory
+cp: cannot stat ‘W22. Keymanthri Moodley_ Ethical and Social Implications of HIV Cure Research in a resource constrained setting South Africa Revised.docx’: No such file or directory
+cp: cannot stat ‘W23.Gender based violence in India  Critical insights into the ground realities based on empirical and secondary research.docx’: No such file or directory
+cp: cannot stat ‘W24. Lisa Schwartz_Ethics and treatment options in end of life care the view from complex humanitarian crises.docx’: No such file or directory
+cp: cannot stat ‘W25. Mahati Chittem_Is it time to integrate psychology and medicine_ Psycho-oncology perspectives on patient care..docx’: No such file or directory
+cp: cannot stat ‘W26.Mala Ramanathan_Public health ethics and qualitative research_experiences from the field Revised.doc’: No such file or directory
+cp: cannot stat ‘W27. Nida Wahid_Understanding Medical Error Revised.docx’: No such file or directory
+cp: cannot stat ‘W28, Niels Nijsingh_Drug-resistant bacteria from a global environmental perspective Revised.docx’: No such file or directory
+cp: cannot stat ‘W29. Pragya Lodha_Ethical issues in modern practice of  psychiatry.docx’: No such file or directory
+cp: cannot stat ‘W30. Rakhal Gaitonde_FACTORING IN THE POLITICS OF KNOWLEDGE – AN ETHICAL IMPERATIVE.docx’: No such file or directory
+cp: cannot stat ‘W32  Reuven Brandt_Ethical Challenges in the Implementation of Gene Drive Technology Revised.docx’: No such file or directory
+cp: cannot stat ‘W33. UPDATED - Sharon Kaur_Putting Ethics at the Heart of Data Sharing and Biobanking in Low and Middle-Income Countries \\(003\\) \\(1\\).docx’: No such file or directory
+cp: cannot stat ‘W34. Silke Schicktanz_Cross-comparative Perspectives on Surrogacy and gamete donations.pdf’: No such file or directory
+cp: cannot stat ‘W35. Silke Schicktanz_The ethics of We-medicine Solidaritysocial care and public-revised.pdf’: No such file or directory
+cp: cannot stat ‘W36.Soren Holm_How to publish in bioethics – Meet the editors.docx’: No such file or directory
+cp: cannot stat ‘W37.Soumitra Datta_Are we all able to make correct choices.doc’: No such file or directory
+cp: cannot stat ‘W38. Sunita Simon_Professional boundaries - Guidelines for doctors.docx’: No such file or directory
+cp: cannot stat ‘W39. Udo Schenkluk_Conscientious Objection Accommodation in Medicine.pdf’: No such file or directory
+cp: cannot stat ‘W40.Wee Ming_Driving the Boredom out of Teaching Ethics _ is this possible.pdf’: No such file or directory
+cp: cannot stat ‘W41.  World Medical Association_The ethos of medicine in a changing global landscape.pdf’: No such file or directory
+cp: cannot stat ‘W42. Revised ADEH abstract for the conference on Bio ethics.docx’: No such file or directory
+cp: cannot stat ‘W43. Andreas Reis_Neglected by ethics Vector-borne diseases.docx’: No such file or directory
+cp: cannot stat ‘W44. Animesh Jain_ ABC of ethics in internet based research.pdf’: No such file or directory
+cp: cannot stat ‘W45. Arima Mishra_Teaching and learning public health ethics What works.docx’: No such file or directory
+cp: cannot stat ‘W46. Kajal Bhardwaj_A Human Rights Approach to TB Debating legal-ethical issues in the prevention and treatment of TB in India..docx’: No such file or directory
+cp: cannot stat ‘W47. Kajal Bhardwaj_Patents and Access to Medicines in India Five Years of the Novartis Case.docx’: No such file or directory
+cp: cannot stat ‘W48. Luis Geraldo_FAMILIES IN THE CLOSET AN ANALYSIS OF BRAZILIAN CASES ABOUT THE VIOLATION OF LGBTI HUMAN RIGHTS Revised.docx’: No such file or directory
+cp: cannot stat ‘W49.Mala Ramanathan_Ethical issues in Aging Research.docx’: No such file or directory
+cp: cannot stat ‘W50. Mark Sheehan_Public Patient and Community Engagement Concepts and Cases - REVISED.docx’: No such file or directory
+cp: cannot stat ‘W51. Natasha Anwar_Ethics - Through the Microscope.docx’: No such file or directory
+cp: cannot stat ‘W52. Ruth Mackiln_From dignity to autonomy and back.docx’: No such file or directory
+cp: cannot stat ‘W53. Sama_SRHR and Bioethics Intersections and Implications for Equity and Justice.docx’: No such file or directory
+cp: cannot stat ‘W54. Sarah Hodges_Faking it REVISED.docx’: No such file or directory
+cp: cannot stat ‘W55. Seema K Shah_Global Challenges in the Ethical Conduct of Human Challenge Trials.docx’: No such file or directory
+cp: cannot stat ‘W56. So Yoon Kim_New genomic technologies and rethinking bioethics.docx’: No such file or directory
+cp: cannot stat ‘318. Harishchandra Zagade_Oral_The appropriation of route of universal healthcare \\(UHC\\) The shift in ethical vision and mission of healthcare in India - Revised.docx’: No such file or directory
+cp: cannot stat ‘323. Adeline Neron_Oral_What \\(is\\) Sub-Saharan Post-Colonial Bioethics.Revised.doc’: No such file or directory
+cp: cannot stat ‘324. Adithya Pradyumna_Poster_The Endosulfan Tragedy and subsequent remediation efforts – reflections from the “Health For All” perspective_revised.docx’: No such file or directory
+cp: cannot stat ‘325. Adithya Pradyumna_Eiher_Critical reflections on Health Impact Assessment – an important instrument towards Health For All_revised.docx’: No such file or directory
+cp: cannot stat ‘330. Amitabh Datta_Oral_'Realizing Principle of Respect for Autonomy in Patients Scheduled for Surgery The Butterfly must Fly!'.docx’: No such file or directory
+cp: cannot stat ‘340. Bilkis Vissandjee_Female genital cutting \\(FGC\\) and the ethics of care community engagement and respectful care at the interface of migration experiences.docx’: No such file or directory
+cp: cannot stat ‘345. Chrsitine Mitchell_Oral_What is a universal human right to science \\(and why does it matter\\)revised.docx’: No such file or directory
+cp: cannot stat ‘348. Cynthia P. Paidipati_oral_Moral Distress, Depression, and Suicide Risk among Nursing Students Expanding Bioethics into Mental Health and Nursing Education \\(Revised\\).docx’: No such file or directory
+cp: cannot stat ‘349. Daksha Parmar_Oral_American Foundations and Development of Demographic Research Centres in Maharashtra \\(India\\) 1950s-1970s. Revised docx.docx’: No such file or directory
+cp: cannot stat ‘354. Elizabeth T B _EIther_Is it possible to benefit lab animals in biomedical research_Revised \\(1\\).docx’: No such file or directory
+cp: cannot stat ‘355. Eva Neu_Either_On Experimental Bioethics and Resident Houses \\(RH\\).doc’: No such file or directory
+cp: cannot stat ‘356. Eva-Neu_Either_Bioethics in Context of an International Olympic Academy \\(IOA\\) and International Olympic Stadiums.doc’: No such file or directory
+cp: cannot stat ‘365. Iqra Masood_Oral_COMPLIANCE OF PATIENT INFORMED CONSENT DOCUMENT TO GOOD CLINICAL PRACTICE \\(GCP\\) STANDARDS - SNAPSHOT FROM A TERTIARY CARE CANCER CENTRE IN PAKISTAN-Revised.docx’: No such file or directory
+cp: cannot stat ‘370. Johnson Pradeep_Oral_To Admit or Not  Ethical dilemmas in involuntary admission of alcohol dependent persons.Revised \\(1\\).docx’: No such file or directory
+cp: cannot stat ‘376. Khin Mar Myint_Poster_Effectiveness of a Blended Workshop in Research Ethics and Responsible Conduct in Research for Myanmar Academics \\(Revised\\).doc’: No such file or directory
+cp: cannot stat ‘377. Kirandeep Kaur_Oral_Critical analysis of the Report by NCW and NIMHANS on “Addressing concerns of women admitted to psychiatric institutions in India An in-depth analysis” in the light.docx’: No such file or directory
+cp: cannot stat ‘378. Li Xiaojie-Orak_Women\’s obstetric autonomy in rural China  Reflections on the “Yulin Pregnant woman jumps to death”Event\\(Revised\\).docx’: No such file or directory
+cp: cannot stat ‘380. Lisa Foreman Health and Human Rights for All.docx’: No such file or directory
+cp: cannot stat ‘390. Md Shaikh Farid_Oral_Religious, cultural and legal barriers of organ donation The case of Bangladesh \\(1\\).docx’: No such file or directory
+cp: cannot stat ‘393. Michael Ch Michailov_On Bioethics in Context of Anthropology%2c Philosophy%2c Theology_revised.docx’: No such file or directory
+cp: cannot stat ‘396. Nancy Clark_Exploring intersectionality as a policy tool for gender-based policy analysis Implications for language and health literacy as key determinants of integration.docx’: No such file or directory
+cp: cannot stat ‘401. Peter Osimiri_Oral_Global Justice and the “Brain Drain” Syndrome\\(2\\) REVISED.docx’: No such file or directory
+cp: cannot stat ‘404. Prashant Kumar_Oral_Rising Accredited Social Health Activists \\(ASHAs\\) in Rural India A Study in Kursela Block of Katihar District, Bihar.docx’: No such file or directory
+cp: cannot stat ‘412. Sachin Barbde_Oral_An ethical inquiry into the series of trials and scale ups of community mobilization strategy for improved birth outcomes in Jharkhand and Odisha, states of India.Revised..docx’: No such file or directory
+cp: cannot stat ‘418. Sauleha SS_Oral_Suicide and Deliberate Self-harm in Pakistan a scoping review.docx’: No such file or directory
+cp: cannot stat ‘430. Sumin Kim_Either_Experts\’ Perception and Attitude on Direct-to-Consumer Genetic Testing \\(DTC-GT\\) in Republic of Korea \\(ROK\\) Ethical, Legal, and Social Implications.docx’: No such file or directory
+cp: cannot stat ‘432. Surekha GArim_Either_Panchayats and Health services Fragile bonds and the role of power and ethics in mediating governance in a decentralised setting_Revised.docx’: No such file or directory
+cp: cannot stat ‘443. Vivek Divan_Oral_Criminal sanctions & Tuberculosis notification.docx’: No such file or directory
+cp: cannot stat ‘445. Paulo Beudo_Either_Social approach of people with mental suffering one \\(serious\\) outstanding debt..docx’: No such file or directory
+cp: cannot stat ‘447.Arundhati Abhyankar_Oral_Pre grant Opposition of Patent applications display the frivolous claims made by pharmaceutical companies A case study_Revised.docx’: No such file or directory
+cp: cannot stat ‘W57. Vinay Chandran_Transforming  Gender and Sexuality Teaching in Medicine An LGBTQIA  Perspective_REVISED.docx’: No such file or directory
+cp: cannot stat ‘W58. Vineet Vinay_Reaching the Unreached, Touching the untouched, Enabling the Disabled.docx’: No such file or directory
+cp: cannot stat ‘W59. Vivek Divan_Privacy and health – intersections and concerns in our digital surveillance age.docx’: No such file or directory
+cp: cannot stat ‘W60. Kenneth Goodman_Information Technology and Universal Health Coverage.docx’: No such file or directory
+cp: cannot stat ‘W61. Trudo Lemmens_Global Trends in the Law on End-of-Life Care Comparative Reflections on the Implications of Legalizing Euthanasia and Physician Assisted Suicide.docx’: No such file or directory
+cp: cannot stat ‘W62. Christy_Access to Health Care and Employment of Women with Disabilities-Revised.docx’: No such file or directory
