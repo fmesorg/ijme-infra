@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-BACKUP_DIR=/mnt/backup  #local backup directory
+BACKUP_DIR=~/backup  #local backup directory
 LOG_FILE=${BACKUP_DIR}/log/backup_$(date +%a).log
 S3_BACKUP_DIRNAME=ijme
 
